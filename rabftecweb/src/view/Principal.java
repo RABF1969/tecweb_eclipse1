@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 public class Principal {
 
 	private JFrame frame;
+	// alterado do git
 
 	/**
 	 * Launch the application.
